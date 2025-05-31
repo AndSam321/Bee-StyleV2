@@ -9,7 +9,7 @@ const Location: React.FC = () => {
           <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
             Find Us
           </h2>
-          <div className="w-24 h-1 bg-[#9D2235] mx-auto mb-8"></div>
+          <div className="w-24 h-1 bg-[#ffa500] mx-auto mb-8"></div>
           <p className="text-gray-700">
             We're located at the heart of the University of Arkansas and only a
             block away from Dickson Street.
@@ -26,7 +26,7 @@ const Location: React.FC = () => {
               <div className="space-y-4">
                 <div className="flex items-start">
                   <MapPin
-                    className="text-[#9D2235] mr-3 mt-1 flex-shrink-0"
+                    className="text-[#ffa500] mr-3 mt-1 flex-shrink-0"
                     size={20}
                   />
                   <div>
@@ -41,7 +41,7 @@ const Location: React.FC = () => {
 
                 <div className="flex items-start">
                   <Clock
-                    className="text-[#9D2235] mr-3 mt-1 flex-shrink-0"
+                    className="text-[#ffa500] mr-3 mt-1 flex-shrink-0"
                     size={20}
                   />
                   <div>
@@ -61,7 +61,7 @@ const Location: React.FC = () => {
 
                 <div className="flex items-start">
                   <Phone
-                    className="text-[#9D2235] mr-3 mt-1 flex-shrink-0"
+                    className="text-[#ffa500] mr-3 mt-1 flex-shrink-0"
                     size={20}
                   />
                   <div>
@@ -84,19 +84,19 @@ const Location: React.FC = () => {
               </p>
               <ul className="space-y-2 text-gray-700">
                 <li className="flex items-center">
-                  <div className="w-2 h-2 rounded-full bg-[#9D2235] mr-2"></div>
+                  <div className="w-2 h-2 rounded-full bg-[#ffa500] mr-2"></div>
                   Dickston Street
                 </li>
                 <li className="flex items-center">
-                  <div className="w-2 h-2 rounded-full bg-[#9D2235] mr-2"></div>
+                  <div className="w-2 h-2 rounded-full bg-[#ffa500] mr-2"></div>
                   Walton Arts Center
                 </li>
                 <li className="flex items-center">
-                  <div className="w-2 h-2 rounded-full bg-[#9D2235] mr-2"></div>
+                  <div className="w-2 h-2 rounded-full bg-[#ffa500] mr-2"></div>
                   Fayetteville Public Library
                 </li>
                 <li className="flex items-center">
-                  <div className="w-2 h-2 rounded-full bg-[#9D2235] mr-2"></div>
+                  <div className="w-2 h-2 rounded-full bg-[#ffa500] mr-2"></div>
                   Wilson Park
                 </li>
               </ul>

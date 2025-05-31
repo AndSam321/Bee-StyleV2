@@ -8,7 +8,7 @@ const About: React.FC = () => {
           <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
             Our Story
           </h2>
-          <div className="w-24 h-1 bg-[#9D2235] mx-auto mb-8"></div>
+          <div className="w-24 h-1 bg-[#ffa500] mx-auto mb-8"></div>
         </div>
 
         <div className="grid md:grid-cols-2 gap-12 items-center">
@@ -49,7 +49,7 @@ const About: React.FC = () => {
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
               Our Values
             </h2>
-            <div className="w-24 h-1 bg-[#9D2235] mx-auto mb-8"></div>
+            <div className="w-24 h-1 bg-[#ffa500] mx-auto mb-8"></div>
           </div>
 
           <div className="grid md:grid-cols-3 gap-8">
