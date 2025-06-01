@@ -48,7 +48,7 @@ const Location: React.FC = () => {
                     <h4 className="font-medium text-gray-900">Hours</h4>
                     <ul className="text-gray-700">
                       <li>
-                        Monday - Friday: 10:00 AM - 2:00 PM | 4:00 PM - 8:00 PM
+                        Monday - Friday: 11:00 AM - 2:30 PM | 5:00 PM - 8:00 PM
                       </li>
                       <li>Sunday: Closed</li>
                     </ul>
@@ -85,7 +85,7 @@ const Location: React.FC = () => {
               <ul className="space-y-2 text-gray-700">
                 <li className="flex items-center">
                   <div className="w-2 h-2 rounded-full bg-[#ffa500] mr-2"></div>
-                  Dickston Street
+                  Dickson Street
                 </li>
                 <li className="flex items-center">
                   <div className="w-2 h-2 rounded-full bg-[#ffa500] mr-2"></div>
