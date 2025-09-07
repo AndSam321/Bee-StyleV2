@@ -29,7 +29,7 @@ const Menu: React.FC = () => {
 
             <div className="flex justify-center">
               <a
-                href="/Main_Menu_01-15-25.pdf" // In a real implementation, this would link to an actual PDF
+                href="/Main_Menu_09-07-25.pdf"
                 className="flex items-center bg-[#9D2235] hover:bg-[#8a1e2f] text-white font-medium py-3 px-6 rounded-md transition-colors"
               >
                 <Download size={20} className="mr-2" />
